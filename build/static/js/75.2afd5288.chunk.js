@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknetflix_gpt=self.webpackChunknetflix_gpt||[]).push([[75],{75:(e,l,s)=>{s.r(l),s.d(l,{default:()=>i});var t=s(43),n=s(574),c=s(579);const i=()=>{const{theme:e,setTheme:l}=(0,t.useContext)(n.D);return(0,c.jsxs)("div",{className:"pt-[500px]",children:["here you will fid the grocery you eat",(0,c.jsxs)("div",{children:[(0,c.jsxs)("p",{children:["i like colours ",e]}),(0,c.jsx)("button",{onClick:()=>l("yellow"==e?"red":"yellow"),children:"change"})]})]})}}}]);
+//# sourceMappingURL=75.2afd5288.chunk.js.map
