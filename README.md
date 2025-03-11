@@ -1,3 +1,18 @@
+🍔 FoodMenu - Your Favorite Meals,
+  FoodMenu is a modern and responsive food delivery website built using React, HTML, CSS, and JavaScript. It allows users to browse a variety of delicious meals, add them to their cart, and place orders with ease. Whether you're craving pizza, burgers, or sushi, Foodie Express brings your favorite restaurants to your doorstep in just a few clicks!
+
+🚀 Features
+✅ Browse a diverse menu of restaurants and dishes
+✅ Add items to cart and customize orders
+✅ Secure checkout with multiple payment options
+✅ User-friendly and responsive design
+✅ Real-time order tracking
+
+🛠 Tech Stack
+Frontend: React, HTML, CSS, JavaScript
+State Management: React Context API / Redux (optional)
+Styling: CSS, Tailwind CSS (optional)
+API Integration: Fetch
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
